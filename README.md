@@ -23,14 +23,16 @@
 # 🚀 Projects
 
 ### 🎲 HexaReversy
+육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
 
-<img width="784" alt="Image" src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" />
-![Image](https://github.com/user-attachments/assets/27a7f111-7cce-43fe-84cc-1a0fbb5e0043)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="784"/>
+</p>
 
 <br/>
 
 
-육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
+
 
 
 <br/>
@@ -56,6 +58,7 @@
 
 
 ### 🐻  Don’t Die
+
 <img width="1511" alt="Image" src="https://github.com/user-attachments/assets/d5888381-1ebd-449c-895b-4b3b74a4c822" />
 
 <br/>
