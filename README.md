@@ -8,6 +8,21 @@
 - **멀티플레이 시스템**, **게임 로직 설계**, **상호작용 시스템 구현** 강점
 - GitHub & Notion을 활용한 **기록 중심 협업**과 **확장성 있는 구조적 개발**을 지향
 
+<br/>
+
+# 📚 Contents
+
+- [🛠 Tech Stack](#-tech-stack)
+- [🚀 Projects](#-projects)
+  - [🎲 HexaReversy](#-hexareversy-----view-repositoryhttpsgithubcomyoujin-43hexareversy)
+  - [🐻 Don’t Die](#-don’t-die----view-repositoryhttpsgithubcomyoujin-43don-t-die)
+  - [⚡ VOLTA](#-volta----view-repositoryhttpsgithubcomyoujin-43capstone-2024-21)
+  - [🏴‍☠️ YoHoThrow](#-yohothrow----view-repositoryhttpsgithubcomyoujin-43yo_ho_throw)
+- [✍️ Blog](#-blog)
+- [📚 Algorithm Practice](#-algorithm-practice)
+- [📫 Contact](#-contact)
+
+<br/>
 
 <br/>
 
@@ -22,7 +37,7 @@
 
 # 🚀 Projects
 
-### 🎲 HexaReversy [🔗 View Repository](https://github.com/youjin-43/HexaReversy)
+### 🎲 HexaReversy --- [🔗 View Repository](https://github.com/youjin-43/HexaReversy)
 
 
 <p align="center">
@@ -56,7 +71,7 @@
 
 
 
-### 🐻  Don’t Die [🔗 View Repository](https://github.com/youjin-43/Don-t-Die)
+### 🐻  Don’t Die --- [🔗 View Repository](https://github.com/youjin-43/Don-t-Die)
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/d5888381-1ebd-449c-895b-4b3b74a4c822" />
 
@@ -87,7 +102,7 @@
 
 
 
-### ⚡ VOLTA [🔗 View Repository](https://github.com/youjin-43/capstone-2024-21)
+### ⚡ VOLTA --- [🔗 View Repository](https://github.com/youjin-43/capstone-2024-21)
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/c6527614-6b39-4827-a0aa-e424861b820f" />
 
 
@@ -118,7 +133,7 @@
 
 
 
-### 🏴‍☠️ YoHoThrow [🔗 View Repository](https://github.com/youjin-43/Yo_Ho_Throw)
+### 🏴‍☠️ YoHoThrow --- [🔗 View Repository](https://github.com/youjin-43/Yo_Ho_Throw)
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/ca8236e5-78ed-485e-9ef5-35c90be13ffb" />
 
