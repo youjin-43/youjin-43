@@ -39,12 +39,15 @@
 
 ### 🎲 HexaReversy --- [🔗 View Repository](https://github.com/youjin-43/HexaReversy)
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="500"/>
+  <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/ad92c31c-8c0f-4145-b3dd-024112c0e048" width="45%"/>
 </p>
 
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/ad92c31c-8c0f-4145-b3dd-024112c0e048" />
+<br/>
+
+**Overview**
+
 육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
 
 <br/>
@@ -78,6 +81,8 @@
 <br/>
 
 
+**Overview**
+
 2D 픽셀그래픽의 엔딩 수집형 생존 게임  
 
 
@@ -108,6 +113,7 @@
 
 <br/>
 
+**Overview**
 4인 멀티플레이어 백뷰 TPS 생존 게임  
 
 <br/>
