@@ -22,22 +22,22 @@
 
 # 🚀 Projects
 
-### 🎲 HexaReversy
-육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
+### 🎲 HexaReversy [🔗 View Repository](https://github.com/youjin-43/HexaReversy)
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="500"/>
 </p>
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/ad92c31c-8c0f-4145-b3dd-024112c0e048" />
-
+육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
 
 <br/>
 
 
 
 
-[🔗 View Repository](https://github.com/youjin-43/HexaReversy)
+
 
 **역할**
 - 육각형 큐브 좌표계를 활용한 **효율적 타일 관리 시스템** 설계
@@ -56,7 +56,7 @@
 
 
 
-### 🐻  Don’t Die
+### 🐻  Don’t Die [🔗 View Repository](https://github.com/youjin-43/Don-t-Die)
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/d5888381-1ebd-449c-895b-4b3b74a4c822" />
 
@@ -66,9 +66,7 @@
 2D 픽셀그래픽의 엔딩 수집형 생존 게임  
 
 
-<br/>
 
-[🔗 View Repository](https://github.com/youjin-43/Don-t-Die)
 
 <br/>
 
@@ -89,7 +87,7 @@
 
 
 
-### ⚡ VOLTA
+### ⚡ VOLTA [🔗 View Repository](https://github.com/youjin-43/capstone-2024-21)
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/c6527614-6b39-4827-a0aa-e424861b820f" />
 
 
@@ -99,7 +97,7 @@
 
 <br/>
 
-[🔗 View Repository](https://github.com/youjin-43/capstone-2024-21)
+
 
 <br/>
 
@@ -120,16 +118,13 @@
 
 
 
-### 🏴‍☠️ YoHoThrow
+### 🏴‍☠️ YoHoThrow [🔗 View Repository](https://github.com/youjin-43/Yo_Ho_Throw)
+
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/ca8236e5-78ed-485e-9ef5-35c90be13ffb" />
 
 <br/>
 
 해적 테마의 멀티플레이 TPS 던지기 게임 
-
-<br/>
-
-[🔗 View Repository](https://github.com/youjin-43/Yo_Ho_Throw)
 
 
 <br/>
