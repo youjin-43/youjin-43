@@ -1,6 +1,6 @@
 # 👾 김유진 | Game Developer
 
-안녕하세요! 게임의 구조를 설계하고, 확장성과 팀워크를 고려한 구조적인 게임 개발을 추구하는 김유진 입니다! 
+안녕하세요! 탄탄한 시스템 설계와 확장 가능한 아키텍처 구성, 원활한 협업을 지향하는 개발자 김유진입니다!
 
 <br/>
 
@@ -28,6 +28,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="500"/>
 </p>
+
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/ad92c31c-8c0f-4145-b3dd-024112c0e048" />
 
 
 <br/>
@@ -69,6 +71,7 @@
 [🔗 View Repository](https://github.com/youjin-43/Don-t-Die)
 
 <br/>
+
 **역할**
 - **팀장 & 개발 리드** 역할 수행 → 일정 관리 및 협업 주도
 - 유연한 구조의 **플레이어 무브 매니저 설계**
@@ -87,8 +90,9 @@
 
 
 ### ⚡ VOLTA
-![Image]()
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/4c818e73-9afe-430a-86f9-087285e9ed36" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/c6527614-6b39-4827-a0aa-e424861b820f" />
+
+
 <br/>
 
 4인 멀티플레이어 백뷰 TPS 생존 게임  
@@ -160,15 +164,11 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kuj0430&theme=warm)
 
 
-사고력과 문제 해결 능력을 꾸준히 다듬기 위해 
-**Baekjoon Online Judge(BOJ)**에서 알고리즘 문제 풀이를 기록하고 있습니다.
+사고력과 문제 해결 능력을 꾸준히 다듬기 위해 **Baekjoon Online Judge(BOJ)** 에서 알고리즘 문제 풀이를 기록하고 있습니다.
 
 - `C++` 위주의 문제 풀이
 - **백준 Solved 티어 / 스트릭 관리**로 꾸준한 알고리즘 실력 유지
-- 단순한 정답이 아닌, **접근 방식과 실수, 개선 과정을 블로그에 기록**
-
-
- [🔗문제 풀이 기록 블로그](https://youjin43.tistory.com/category/백준)
+- 단순한 정답이 아닌, **접근 방식과 실수, 개선 과정을 블로그에 기록** [🔗문제 풀이 기록 블로그](https://youjin43.tistory.com/category/백준)
 
 
 <br/>
