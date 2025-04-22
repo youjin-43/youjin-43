@@ -39,22 +39,13 @@
 
 ### 🎲 HexaReversy --- [🔗 View Repository](https://github.com/youjin-43/HexaReversy)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/ad92c31c-8c0f-4145-b3dd-024112c0e048" width="45%"/>
-</p>
+<img width="500" alt="Image" src= "https://github.com/user-attachments/assets/ad92c31c-8c0f-4145-b3dd-024112c0e048"/>
 
 <br/>
 
 **Overview**
 
 육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
-
-<br/>
-
-
-
-
 
 
 **역할**
@@ -85,11 +76,6 @@
 
 2D 픽셀그래픽의 엔딩 수집형 생존 게임  
 
-
-
-
-<br/>
-
 **역할**
 - **팀장 & 개발 리드** 역할 수행 → 일정 관리 및 협업 주도
 - 유연한 구조의 **플레이어 무브 매니저 설계**
@@ -114,13 +100,9 @@
 <br/>
 
 **Overview**
+
 4인 멀티플레이어 백뷰 TPS 생존 게임  
 
-<br/>
-
-
-
-<br/>
 
 **역할**
 - 레이캐스트 기반 상호작용 시스템 구현
@@ -145,10 +127,9 @@
 
 <br/>
 
+**Overview**
+
 해적 테마의 멀티플레이 TPS 던지기 게임 
-
-
-<br/>
 
 **역할**
 - 게임 기획부터 시스템 설계까지 전체 흐름 조율
