@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuj0430)](https://solved.ac/kuj0430/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kuj0430&theme=warm)
 
 <!--
 **youjin-43/youjin-43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
