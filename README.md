@@ -26,16 +26,13 @@
 육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="784"/>
+  <img src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" width="500"/>
 </p>
 
-<br/>
-
-
-
-
 
 <br/>
+
+
 
 
 [🔗 View Repository](https://github.com/youjin-43/HexaReversy)
@@ -59,7 +56,7 @@
 
 ### 🐻  Don’t Die
 
-<img width="1511" alt="Image" src="https://github.com/user-attachments/assets/d5888381-1ebd-449c-895b-4b3b74a4c822" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/d5888381-1ebd-449c-895b-4b3b74a4c822" />
 
 <br/>
 
@@ -90,8 +87,8 @@
 
 
 ### ⚡ VOLTA
-![Image](https://github.com/user-attachments/assets/4c818e73-9afe-430a-86f9-087285e9ed36)
-
+![Image]()
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/4c818e73-9afe-430a-86f9-087285e9ed36" />
 <br/>
 
 4인 멀티플레이어 백뷰 TPS 생존 게임  
@@ -120,7 +117,7 @@
 
 
 ### 🏴‍☠️ YoHoThrow
-<img width="847" alt="Image" src="https://github.com/user-attachments/assets/ca8236e5-78ed-485e-9ef5-35c90be13ffb" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/ca8236e5-78ed-485e-9ef5-35c90be13ffb" />
 
 <br/>
 
