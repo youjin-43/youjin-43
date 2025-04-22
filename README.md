@@ -23,9 +23,22 @@
 # 🚀 Projects
 
 ### 🎲 HexaReversy
+
+<img width="784" alt="Image" src="https://github.com/user-attachments/assets/9f7035bb-0039-4bdf-a80b-1cf7ad6190a0" />
+![Image](https://github.com/user-attachments/assets/27a7f111-7cce-43fe-84cc-1a0fbb5e0043)
+
+<br/>
+
+
 육각형 타일 기반 3D 보드게임 (멀티/AI 지원)  
+
+
+<br/>
+
+
 [🔗 View Repository](https://github.com/youjin-43/HexaReversy)
 
+**역할**
 - 육각형 큐브 좌표계를 활용한 **효율적 타일 관리 시스템** 설계
 - 2인 멀티플레이 및 **턴 기반 게임 로직** 구현 (State Machine)
 - AI 설계 및 솔로모드 구현
@@ -43,13 +56,25 @@
 
 
 ### 🐻  Don’t Die
+<img width="1511" alt="Image" src="https://github.com/user-attachments/assets/d5888381-1ebd-449c-895b-4b3b74a4c822" />
+
+<br/>
+
+
 2D 픽셀그래픽의 엔딩 수집형 생존 게임  
+
+
+<br/>
+
 [🔗 View Repository](https://github.com/youjin-43/Don-t-Die)
 
+<br/>
+**역할**
 - **팀장 & 개발 리드** 역할 수행 → 일정 관리 및 협업 주도
 - 유연한 구조의 **플레이어 무브 매니저 설계**
 - 상태 머신 + 상속 기반 **몬스터 AI 구현**
 - **UI 상호작용 최적화**로 유저 경험 향상
+
 
 **성과**
 - GitHub/Notion 기반 실시간 협업 → 개발 속도 향상
@@ -62,12 +87,23 @@
 
 
 ### ⚡ VOLTA
-> 4인 멀티플레이어 백뷰 TPS 생존 게임  
+![Image](https://github.com/user-attachments/assets/4c818e73-9afe-430a-86f9-087285e9ed36)
+
+<br/>
+
+4인 멀티플레이어 백뷰 TPS 생존 게임  
+
+<br/>
+
 [🔗 View Repository](https://github.com/youjin-43/capstone-2024-21)
 
+<br/>
+
+**역할**
 - 레이캐스트 기반 상호작용 시스템 구현
 - **아이템 스폰 / 조명 상태 네트워크 동기화**
 - **기술 문서화** 및 회의록을 통한 협업
+
 
 **성과**
 - 직관적 상호작용 구현 → 몰입도 향상
@@ -81,9 +117,20 @@
 
 
 ### 🏴‍☠️ YoHoThrow
-> 해적 테마의 멀티플레이 TPS 던지기 게임  
+<img width="847" alt="Image" src="https://github.com/user-attachments/assets/ca8236e5-78ed-485e-9ef5-35c90be13ffb" />
+
+<br/>
+
+해적 테마의 멀티플레이 TPS 던지기 게임 
+
+<br/>
+
 [🔗 View Repository](https://github.com/youjin-43/Yo_Ho_Throw)
 
+
+<br/>
+
+**역할**
 - 게임 기획부터 시스템 설계까지 전체 흐름 조율
 - 데스매치 / 물약 아이템 시스템 / 밸런스 조정
 - **Photon 기반 플레이어 및 오브젝트 동기화**
