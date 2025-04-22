@@ -1,8 +1,8 @@
 # 👾 김유진 | Game Developer
 
-안녕하세요!   
-게임의 구조를 설계하고, 확장성과 팀워크를 고려한 구조적인 게임 개발을 추구하는 김유진 입니다! 
+안녕하세요! 게임의 구조를 설계하고, 확장성과 팀워크를 고려한 구조적인 게임 개발을 추구하는 김유진 입니다! 
 
+<br/>
 
 - Unity 기반 **게임 클라이언트 개발자**
 - **멀티플레이 시스템**, **게임 로직 설계**, **상호작용 시스템 구현** 강점
@@ -12,7 +12,7 @@
 <br/>
 
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 `Unity` `C#` `C++` `Photon` `GitHub` `Notion`
 
@@ -98,7 +98,7 @@
 <br/>
 
 
-## ✍️ Blog
+# ✍️ Blog
 
 게임 개발 중 겪은 문제 해결 과정과 깨달음을 기록하며, 나만의 개발 노트를 만들어가고 있습니다!  
 
@@ -108,7 +108,7 @@
 <br/>
 
 
-## 📚 Algorithm Practice
+# 📚 Algorithm Practice
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuj0430)](https://solved.ac/kuj0430/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kuj0430&theme=warm)
 
@@ -127,7 +127,7 @@
 <br/>
 
 
-## 📫 Contact
+# 📫 Contact
 
 - **GitHub** : [github.com/youjin-43](https://github.com/youjin-43)  
 - **Email** : wlwlfdl3324@naver.com  
