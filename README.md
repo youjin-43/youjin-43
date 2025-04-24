@@ -149,9 +149,7 @@
 
 게임 개발 중 겪은 문제 해결 과정과 깨달음을 기록하며, 나만의 개발 노트를 만들어가고 있습니다!  
 
-[https://youjin43.tistory.com/](https://github.com/youjin-43/Baekjoon)
-
-
+[🔗 https://youjin43.tistory.com/](https://youjin43.tistory.com/)
 
 
 <br/>
@@ -164,7 +162,8 @@
 
 사고력과 문제 해결 능력을 꾸준히 다듬기 위해 **Baekjoon Online Judge(BOJ)** 에서 알고리즘 문제 풀이를 기록하고 있습니다.
 
- [🔗 View Repository](https://youjin43.tistory.com/)
+ [🔗 View Repository](https://github.com/youjin-43/Baekjoon)
+
 
 
 - `C++` 위주의 문제 풀이
